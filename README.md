@@ -1,4 +1,5 @@
-# Android-SerialPort-Tool
+# KTingSerialPortTool
+在前人肩膀上修改成对自己使用的工具
 Android串口调试助手
 
 根据[**Android官方提供的串口API**](https://github.com/licheedev/Android-SerialPort-API)写的一个小工具，
@@ -16,3 +17,4 @@ AABBCCDDEEFF // 命令注释
 ![2](https://raw.githubusercontent.com/licheedev/Android-SerialPort-Tool/master/pics/2.png)
 
 ![3](https://raw.githubusercontent.com/licheedev/Android-SerialPort-Tool/master/pics/3.jpg)
+
